@@ -5,7 +5,8 @@ The client will have new updates Regularly so check this github page for the cha
 
 Visit https://megaclient.vercel.app for a live version of the game.
 
-I also have a server you can join if you want.
+I also have a server you can join on the client or for Normal Minecraft 1.5.2 if you want.
+
 URL: 
 
 There is currently no place to download an html file of the client.
