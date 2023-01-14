@@ -7,11 +7,8 @@ Visit https://megaclient.vercel.app for a live version of the game.
 
 If you have any feature requests for me to add, just ask me in the issues tab.
 
-I also have a server you can join on the client or for Normal Minecraft 1.5.2 if you want.
-
-URL: 
-
-There is currently no place to download an html file of the client.
+You can download an html file of the client in the release tab of that version.
+The html file will work on chromebooks.
 
 The Original eaglercraft was created by Lax1dude.
 
