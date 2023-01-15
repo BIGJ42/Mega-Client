@@ -5,6 +5,11 @@ The client will have new updates Regularly so check this github page for the cha
 
 Visit https://megaclient.vercel.app for a live version of the game.
 
+LOGIN DETAILS:
+A password has been added so people will come to get the password and read about the client to know how it works and also for better security.
+Username: mega
+Password: client
+
 If you have any feature requests for me to add, just ask me in the issues tab.
 
 You can download an html file of the client in the release tab of that version.
