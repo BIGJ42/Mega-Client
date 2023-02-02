@@ -25,3 +25,6 @@ Fixed a couple of bugs.
 
 Version 2.7:
 A couple of GUI tweaks and bug fixes.
+
+Version 2.8:
+Changed the startup time a text.
